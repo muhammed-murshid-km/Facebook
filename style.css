@@ -188,19 +188,24 @@ img {
 
     .uk {
         position: relative;
-        left: -554px;
+        left: -550px;
     }
 
     img {
         width: 200px;
-        padding-left: 05px;
     }
-
+    
     .from1 {
-        width: 350px;
+        width: 340px;
         height: 500px;
+        
     }
-
+    .mg{
+        margin-left: -4px;
+    } 
+    .css{
+        width: 340px;
+    }
     .h1 {
         font-size: 20px;
     }
@@ -290,7 +295,7 @@ img {
 @media screen and (max-width:768px) and (min-width:450px) {
     .uk {
         position: relative;
-        left: -420px;
+        left: -400px;
     }
 
     img {
