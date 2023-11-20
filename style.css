@@ -295,7 +295,7 @@ img {
 @media screen and (max-width:768px) and (min-width:450px) {
     .uk {
         position: relative;
-        left: -355px;
+        left: -500px;
     }
 
     img {
