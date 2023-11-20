@@ -188,7 +188,7 @@ img {
 
     .uk {
         position: relative;
-        left: -550px;
+        left: -545px;
     }
 
     img {
@@ -295,7 +295,7 @@ img {
 @media screen and (max-width:768px) and (min-width:450px) {
     .uk {
         position: relative;
-        left: -350px;
+        left: -355px;
     }
 
     img {
